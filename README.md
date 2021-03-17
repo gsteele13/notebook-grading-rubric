@@ -1,6 +1,6 @@
 # Notebook Grading Rubric
 
-A small package to process and [nbgrader](https://nbgrader.readthedocs.io/en/stable/)-style "grading rubric specification" syntax that I made for specifying grading rubrics inside of jupyter notebooks for education.
+A small package to process a [nbgrader](https://nbgrader.readthedocs.io/en/stable/)-style "grading rubric specification" syntax that I made for specifying grading rubrics inside of jupyter notebooks for education.
 
 By embedding the specification of the rubric directly inside the solution code, I find it easier to keep a clear overview of my manually graded criteria. 
 
