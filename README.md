@@ -39,3 +39,7 @@ x = 0.5*g*t**2
 ### BEGIN GRADING
 # 1a1 Student correctly implemented formula; 1
 ### END GRADING
+### END SOLUTION
+```
+
+Because the grading criteria delimiters are embedded inside `### BEGIN SOLUTION` / `### END SOLUTION`, they are automatically removed from the student version of the notebook. 
